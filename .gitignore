@@ -1,0 +1,7 @@
+cbot_settings.py
+*.log
+.vscode/
+.idea/
+connect_local/
+.DS_Store
+__pycache__/
